@@ -35,9 +35,9 @@ The jupyter notebook containes steps of how to read the sample set, how to train
 
 The jupyter notebook containes 3 examples of applying the trained model to process 3 different multibeam binary files. The results were also within the notebook.
 
-If you want to train the model, you need to unzip the MBESSample60.zip and ensure proper path.
+If you want to train the model, you need to unzip the MBESSample60.zip and ensure the proper path.
 
-If you want to test the model, you need to unzip the multibeam 7z files, or download at the [NOAA website](https://www.ncei.noaa.gov/maps/water-column-sonar/) and ensure proper path.
+If you want to test the model, you need to unzip the multibeam 7z files, or download at the [NOAA website](https://www.ncei.noaa.gov/maps/water-column-sonar/) and ensure the proper path.
 
 ## Who do I talk to?
 
