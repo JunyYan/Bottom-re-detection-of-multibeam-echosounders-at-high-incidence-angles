@@ -4,6 +4,8 @@ Data and codes for the manuscript "Bottom re-detection of multibeam echosounders
 
 Due to the limitation of upload file size, only small raw multibeam files were uploaded with the code.  multibeam files 
 
+## Code Files.
+
 MBESSample60_.zip: samples for model training and validation.
 - source: The extracted echo strength sequece with varouise length
 - label: The manual bottom detection postion in the corresponding source sequece
