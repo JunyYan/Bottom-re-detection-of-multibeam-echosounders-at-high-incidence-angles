@@ -4,8 +4,7 @@ Data and codes for the manuscript "Bottom re-detection of multibeam echosounders
 
 ![Result](Result.png)
 ![Result2](Result2.png)
-
-Due to the limitation of upload file size, only small raw multibeam files were uploaded with the code.  multibeam files 
+ 
 
 ## Main Codes and Files
 
@@ -20,3 +19,7 @@ WCP.py: codes for generating along-track multibeam images and one beam echo sequ
 models.py: codes for the model.
 
 tools.py: codes for model comparison.
+
+# Multibeam files 
+
+Due to the limitation of upload file size, only 2 small raw multibeam files were uploaded with the code.  More multibeam files can be accessed at the [NOAA website](https://www.ncei.noaa.gov/maps/water-column-sonar/). 
