@@ -17,7 +17,7 @@ EMAllParser.py：codes for decoding the raw multibeam binary file.
 
 WCP.py: codes for generating along-track multibeam images and one beam echo sequece.
 
-models.py: codes for the propsed model.
+models.py: codes for the proposed model.
 
 tools.py: codes for model comparison.
 
@@ -25,7 +25,7 @@ overall_flow.ipynb: jupyter notebook which shows the overall flow of the propose
 
 ## Multibeam files 
 
-Due to the limitation of upload file size, only 2 small raw multibeam files were uploaded with the codes. More multibeam files can be accessed at the [NOAA website](https://www.ncei.noaa.gov/maps/water-column-sonar/). 
+Due to the limitation of upload file size, only 2 small raw multibeam files were uploaded. More multibeam files can be accessed at the [NOAA website](https://www.ncei.noaa.gov/maps/water-column-sonar/). 
 
 ## Usage and Examples
 
