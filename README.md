@@ -13,7 +13,7 @@ MBESSample60.zip: samples for model training and validation.
 - source: The extracted echo strength sequeces of various lengths.
 - label: The manual bottom detection postion in the corresponding source sequece.
 
-EMAllParser.py：codes for decoding the raw multibeam binary file.
+EMAllParser.py: codes for decoding the raw multibeam binary file.
 
 WCP.py: codes for generating along-track multibeam images and one beam echo sequences.
 
