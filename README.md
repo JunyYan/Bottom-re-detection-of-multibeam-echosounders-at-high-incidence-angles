@@ -15,7 +15,7 @@ MBESSample60.zip: samples for model training and validation.
 
 EMAllParser.py：codes for decoding the raw multibeam binary file.
 
-WCP.py: codes for generating along-track multibeam images and one beam echo sequence.
+WCP.py: codes for generating along-track multibeam images and one beam echo sequences.
 
 models.py: codes for the proposed model.
 
