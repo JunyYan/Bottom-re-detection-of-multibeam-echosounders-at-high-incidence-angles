@@ -1,10 +1,11 @@
 # Bottom-re-detection-of-multibeam-echosounders-at-high-incidence-angles
 
-Data and codes for the manuscript "Bottom re-detection of multibeam echosounders at high incidence angles based on water column data and self-attention network"
-
 ![Result](Result.png)
 ![Result2](Result2.png)
- 
+
+## What is this repository for?
+
+Data and codes for the manuscript "Bottom re-detection of multibeam echosounders at high incidence angles based on water column data and self-attention network"
 
 ## Main Codes and Files
 
@@ -16,10 +17,22 @@ EMAllParser.py：codes for decoding the raw multibeam binary file.
 
 WCP.py: codes for generating along-track multibeam images and one beam echo sequece.
 
-models.py: codes for the model.
+models.py: codes for the propsed model.
 
 tools.py: codes for model comparison.
 
-# Multibeam files 
+overall_flow.ipynb: jupyter notebook which shows the overall flow of the proposed method.
 
-Due to the limitation of upload file size, only 2 small raw multibeam files were uploaded with the code.  More multibeam files can be accessed at the [NOAA website](https://www.ncei.noaa.gov/maps/water-column-sonar/). 
+## Multibeam files 
+
+Due to the limitation of upload file size, only 2 small raw multibeam files were uploaded with the codes. More multibeam files can be accessed at the [NOAA website](https://www.ncei.noaa.gov/maps/water-column-sonar/). 
+
+## Usage
+
+
+## Who do I talk to?
+Jun Yan, Anhui University 
+jun.yan@ahu.edu.cn
+
+## License
+Copyright (C) 2026 Jun Yan. This program is free software.
