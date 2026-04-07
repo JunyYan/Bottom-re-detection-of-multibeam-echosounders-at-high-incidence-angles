@@ -9,6 +9,9 @@ MBESSample60_.zip: samples for model training and validation.
 - label: The manual bottom detection postion in the corresponding source sequece
 
 EMAllParser.py：codes for decoding the raw multibeam binary file.
+
 WCP.py: codes for generating along-track multibeam images and one beam echo sequece.
+
 models.py: codes for the model.
+
 tools.py: codes for model comparison.
