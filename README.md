@@ -37,7 +37,7 @@ The jupyter notebook containes 3 examples of applying the trained model to proce
 
 If you want to train the model, you need to unzip the MBESSample60.zip and ensure the proper path.
 
-If you want to test the model, you need to unzip the multibeam 7z files, or download at the [NOAA website](https://www.ncei.noaa.gov/maps/water-column-sonar/) and ensure the proper path.
+If you want to test the model, you need to unzip the multibeam 7z files, or download files at the [NOAA website](https://www.ncei.noaa.gov/maps/water-column-sonar/) and ensure the proper path.
 
 ## Who do I talk to?
 
