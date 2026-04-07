@@ -35,4 +35,4 @@ Jun Yan, Anhui University
 jun.yan@ahu.edu.cn
 
 ## License
-Copyright (C) 2026 Jun Yan. This program is free software.
+Copyright (C) 2026 Jun Yan. This program is free software under the terms of the Apache-2.0 license.
