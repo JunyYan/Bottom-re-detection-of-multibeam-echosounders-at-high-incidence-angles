@@ -39,11 +39,6 @@ If you want to train the model, you need to unzip the MBESSample60.zip and ensur
 
 If you want to test the model, you need to unzip the multibeam 7z files, or download files at the [NOAA website](https://www.ncei.noaa.gov/maps/water-column-sonar/) and ensure the proper path.
 
-## Who do I talk to?
-
-Jun Yan, Anhui University 
-
-jun.yan@ahu.edu.cn
 
 ## License
 
